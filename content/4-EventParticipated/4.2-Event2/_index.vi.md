@@ -23,11 +23,7 @@ pre: " <b> 4.2. </b> "
 - Xem cách các dịch vụ cloud hỗ trợ một sản phẩm thực tế dành cho trẻ em.
 - Rèn kỹ năng đặt câu hỏi và trao đổi ý tưởng với người trình bày và các bạn tham dự.
 
-### Diễn giả
-- [Bổ sung tên và vai trò của diễn giả]
-
 ### Những điểm nổi bật
-- [Bổ sung các ý chính của phần trình bày hoặc demo]
 - Sự kiện diễn ra tại tầng 36 tòa nhà Bitexco.
 
 ### Những gì học được

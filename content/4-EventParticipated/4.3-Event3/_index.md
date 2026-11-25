@@ -23,11 +23,7 @@ pre: " <b> 4.3. </b> "
 - Review the AWS services studied during the internship through hands-on and interactive activities.
 - Connect with FCAJ mentors and other FPTU interns.
 
-### Speakers
-- [Add speaker names and roles]
-
 ### Key Highlights
-- [Add the main sessions and topics]
 - The hall was full of FCAJ interns, and the program included an interactive quiz shown on the screen.
 
 ### What I Learned

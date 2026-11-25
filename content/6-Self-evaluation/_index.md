@@ -13,8 +13,8 @@ Below is my self-assessment for the internship in the First Cloud AI Journey pro
 | 1 | **Professional knowledge and skills** | Industry understanding, applying knowledge in practice, tool proficiency, quality of work | ✅ | ☐ | ☐ |
 | 2 | **Ability to learn** | Absorbing new knowledge, learning quickly | ☐ | ✅ | ☐ |
 | 3 | **Proactiveness** | Researching on my own and taking on tasks without waiting for instructions | ✅ | ☐ | ☐ |
-| 4 | **Sense of responsibility** | Completing work on time and ensuring quality | ☐ | ✅ | ☐ |
-| 5 | **Discipline** | Following schedules, rules and work processes | ☐ | ☐ | ✅ |
+| 4 | **Sense of responsibility** | Completing work on time and ensuring quality | ✅ | ☐ | ☐ |
+| 5 | **Discipline** | Following schedules, rules and work processes | ☐ | ✅ | ☐ |
 | 6 | **Progressive mindset** | Open to feedback and improving myself | ☐ | ✅ | ☐ |
 | 7 | **Communication** | Presenting ideas and reporting work clearly | ☐ | ✅ | ☐ |
 | 8 | **Teamwork** | Working effectively with colleagues and participating in the team | ☐ | ✅ | ☐ |
@@ -25,5 +25,5 @@ Below is my self-assessment for the internship in the First Cloud AI Journey pro
 
 ### Needs Improvement
 
-* Discipline: follow schedules, rules and work processes more closely.
-* Responsibility and teamwork: improve on-time delivery and quality, and coordinate more proactively with colleagues.
+* Discipline: Develop stronger habits in managing time, adhering to established guidelines, and maintaining consistent work procedures.
+* Responsibility and teamwork: Enhance commitment to deadlines and work quality while improving communication and collaboration with team members.

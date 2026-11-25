@@ -35,7 +35,7 @@ Some AWS services that can be invoked through EventBridge Scheduler include:
 With Universal Targets, EventBridge Scheduler can invoke more than 6,000 API operations across more than 270 AWS services. This provides flexible integration with different components in a Cloud architecture.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/NguyenMinhPhuong_Workshop/images/eventbridge-scheduler-architecture.png" alt="Amazon EventBridge Scheduler architecture" style="width: 90%; max-width: 850px; border-radius: 8px;">
+  <img src="/images/eventbridge-scheduler-architecture.png" alt="Amazon EventBridge Scheduler architecture" style="width: 90%; max-width: 850px; border-radius: 8px;">
   <p><em>Figure 1 - Illustration of how Amazon EventBridge Scheduler creates schedules and triggers target services on AWS.</em></p>
 </div>
 

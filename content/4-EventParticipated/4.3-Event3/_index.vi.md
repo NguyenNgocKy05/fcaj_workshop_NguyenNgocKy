@@ -23,12 +23,8 @@ pre: " <b> 4.3. </b> "
 - Củng cố các dịch vụ AWS đã học trong kỳ thực tập qua hoạt động thực hành và tương tác.
 - Kết nối với các mentor FCAJ và các bạn thực tập sinh FPTU.
 
-### Diễn giả
-- [Bổ sung tên và vai trò của diễn giả]
-
 ### Những điểm nổi bật
-- [Bổ sung các phiên và chủ đề chính]
-- Hội trường đông thực tập sinh FCAJ, chương trình có phần quiz tương tác trình chiếu trên màn hình.
+- Hội trường đông thực tập sinh FCAJ, chương trình có phần quiz ôn lại kiến thức.
 
 ### Những gì học được
 - Quiz tương tác là cách tốt để phát hiện lỗ hổng kiến thức AWS của bản thân.

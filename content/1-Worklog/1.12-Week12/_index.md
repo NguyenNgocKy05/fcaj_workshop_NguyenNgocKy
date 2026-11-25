@@ -8,18 +8,13 @@ pre: " <b> 1.12. </b> "
 
 ### Week 12 Objectives:
 
-* [Objective 1]
-* [Objective 2]
+* Consolidate 11 weeks of learning and finalize the report.
 
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---- | ---------- | --------------- | ------------------ |
-| 2   | - [Task]  | 30/11/2026 | 30/11/2026 | [link] |
-| 3   | - [Task]  | 01/12/2026 | 01/12/2026 | [link] |
-| 4   | - [Task]  | 02/12/2026 | 02/12/2026 | [link] |
-| 5   | - [Task]  | 03/12/2026 | 03/12/2026 | [link] |
-| 6   | - [Task]  | 04/12/2026 | 04/12/2026 | [link] |
+| 2   | Review the worklog, finalize the workshop content and publish the report on GitHub Pages. | 30/11/2026 | 30/11/2026 | [GitHub Pages docs](https://docs.github.com/en/pages)<br>[Hugo documentation](https://gohugo.io/documentation/) |
 
 ### Week 12 Achievements:
 
-* [What I learned / completed]
+* Reviewed the worklog and workshop, and published the report on GitHub Pages.

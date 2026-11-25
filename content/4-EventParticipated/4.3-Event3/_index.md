@@ -24,7 +24,7 @@ pre: " <b> 4.3. </b> "
 - Connect with FCAJ mentors and other FPTU interns.
 
 ### Key Highlights
-- The hall was full of FCAJ interns, and the program included an interactive quiz shown on the screen.
+- The hall was full of FCAJ interns, and the program includes a quiz to review knowledge.
 
 ### What I Learned
 - Interactive quizzes are a good way to find gaps in my AWS knowledge.

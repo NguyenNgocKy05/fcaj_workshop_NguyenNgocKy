@@ -13,8 +13,8 @@ Dưới đây là phần tự đánh giá của mình trong thời gian thực t
 | 1 | **Kiến thức và kỹ năng chuyên môn** | Hiểu biết về ngành, áp dụng kiến thức vào thực tế, kỹ năng sử dụng công cụ, chất lượng công việc | ✅ | ☐ | ☐ |
 | 2 | **Khả năng học hỏi** | Tiếp thu kiến thức mới, học hỏi nhanh | ☐ | ✅ | ☐ |
 | 3 | **Chủ động** | Tự tìm hiểu, nhận nhiệm vụ mà không chờ chỉ dẫn | ✅ | ☐ | ☐ |
-| 4 | **Tinh thần trách nhiệm** | Hoàn thành công việc đúng hạn, đảm bảo chất lượng | ☐ | ✅ | ☐ |
-| 5 | **Kỷ luật** | Tuân thủ giờ giấc, nội quy, quy trình làm việc | ☐ | ☐ | ✅ |
+| 4 | **Tinh thần trách nhiệm** | Hoàn thành công việc đúng hạn, đảm bảo chất lượng | ✅ | ☐ | ☐ |
+| 5 | **Kỷ luật** | Tuân thủ giờ giấc, nội quy, quy trình làm việc | ☐ | ✅ | ☐ |
 | 6 | **Tính cầu tiến** | Sẵn sàng nhận feedback và cải thiện bản thân | ☐ | ✅ | ☐ |
 | 7 | **Giao tiếp** | Trình bày ý tưởng, báo cáo công việc rõ ràng | ☐ | ✅ | ☐ |
 | 8 | **Hợp tác nhóm** | Làm việc hiệu quả với đồng nghiệp, tham gia nhóm | ☐ | ✅ | ☐ |
@@ -25,5 +25,5 @@ Dưới đây là phần tự đánh giá của mình trong thời gian thực t
 
 ### Cần cải thiện
 
-* Kỷ luật: tuân thủ giờ giấc, nội quy và quy trình làm việc tốt hơn.
-* Trách nhiệm và hợp tác nhóm: nâng cao việc hoàn thành đúng hạn, đảm bảo chất lượng và chủ động phối hợp với đồng nghiệp.
+* Kỷ luật: Xây dựng thói quen quản lý thời gian tốt hơn, tuân thủ các quy định và duy trì quy trình làm việc một cách nhất quán.
+* Trách nhiệm và hợp tác nhóm: Nâng cao ý thức hoàn thành công việc đúng thời hạn, đảm bảo chất lượng và cải thiện khả năng giao tiếp, phối hợp với các thành viên trong nhóm.

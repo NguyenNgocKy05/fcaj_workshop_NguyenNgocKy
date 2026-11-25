@@ -23,11 +23,7 @@ pre: " <b> 4.2. </b> "
 - See how cloud services can support a real product aimed at children.
 - Practice asking questions and exchanging ideas with the presenters and other attendees.
 
-### Speakers
-- [Add presenter names and roles]
-
 ### Key Highlights
-- [Add the main points of the presentation or demo]
 - The event was held on the 36th floor of Bitexco Financial Tower.
 
 ### What I Learned
